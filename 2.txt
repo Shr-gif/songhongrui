@@ -1,1 +1,5 @@
-ABCDEFGHLJKMNOPQISTUVW
+
+无需任何代码即可学习Git和GitHub！
+使用“ Hello World”指南，您将开始分支，编写注释并打开拉取请求。
+
+
